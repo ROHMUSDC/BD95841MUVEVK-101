@@ -16,8 +16,7 @@
 
 ----
 ### Where to Purchase?
-* Digikey: http://www.digikey.com/product-search/en/programmers-development-systems/evaluation-boards-dc-dc-ac-dc-off-line-smps/2622539?k=BD95841
-* Mouser: http://www.mouser.com/ProductDetail/ROHM-Semiconductor/BD95841MUVEVK-101/?qs=sGAEpiMZZMtIHXa%252bTo%2fr2VbVvc84yCZ1cre7ve85c%2fs%3d
+* http://www.rohm.com/web/global/distribution/-/dinventory/BD95841MUV-E2/sample/0
 
 ----
 ### DISCLAIMER
